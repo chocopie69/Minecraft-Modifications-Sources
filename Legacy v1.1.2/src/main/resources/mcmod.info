@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "legacy",
+    "name": "Legacy",
+    "description": "insane client for anarchy server's",
+    "version": "v1.1.2",
+    "mcversion": "1.12.2",
+    "logoFile": "legacy.png",
+    "url": "https://clck.ru/3vyXS",
+    "updateUrl": "https://inlnk.ru/q6zm5",
+    "authorList": [
+      "rianix, BlackBro4"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]

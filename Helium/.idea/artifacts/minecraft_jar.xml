@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="minecraft:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/minecraft_jar</output-path>
+    <root id="archive" name="minecraft.jar">
+      <element id="module-output" name="minecraft" />
+    </root>
+  </artifact>
+</component>

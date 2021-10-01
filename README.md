@@ -1,2 +1,70 @@
-# Minecraft-Modifications-Codes
- something here
+# Minecraft Hacked Client Sources
+
+# JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
+
+## Amount of clients: 57
+
+faggot please star this before you fork this
+
+## List of clients:
+
+* Astro 2.2.1 (minigames)
+* Autumn (minigames)
+* Blizzard b1 (minigames)
+* Cheatware (minigames)
+* Cookie (anarchy)
+* Debug 1.2.6 (minigames)
+* Delta b3.7 (minigames)
+* Deluge 0.23 (minigames)
+* ETB Reload 0.1 (minigames)
+* Eject v3 (minigames)
+* Envy 0.3 (minigames)
+* Euphoria B7 (minigames)
+* Execution (minigames)
+* Exist 0.71 (minigames)
+* Fan v3 (minigames)
+* Fan v4 (minigames)
+* Faurax (minigames)
+* Flux B5 (minigames)
+* FusionX 2.0 (minigames)
+* Gamesense (anarchy)
+* Helium (minigames)
+* Hush b4 (minigames)
+* Ice B10 (minigames)
+* Jello 0.1 (minigames)
+* Jigsaw 0.24 (minigames)
+* Jigsaw 0.26 (1.8.8) (minigames)
+* Jigsaw 1.01 (1.12.2) (minigames)
+* Kami Blue (anarchy)
+* Legacy v1.1.2 (anarchy)
+* LiquidBounce B73 (before crossversion update) (minigames)
+* Lucid 0.89 (minigames)
+* Massacre (minigames)
+* Mystra (minigames)
+* Nivia B3 (minigames)
+* Old MoonX (minigames)
+* Phobos 1.9.0 (anarchy)
+* PingBypass (anarchy)
+* Polaris B14 (minigames)
+* Radium (minigames)
+* Rainbow (minigames)
+* Saint 2.3 (minigames)
+* Seppuku (anarchy)
+* Sigma 3.9 (minigames)
+* SkyLine B28 (minigames)
+* Slowly b12.3 (minigames)
+* Spicy (minigames)
+* Splash (minigames)
+* Summer Reborn 3.0 (minigames)
+* Trivia (Old Remix) (minigames)
+* Venus Recode 0.2.0 (minigames)
+* Virtue (minigames)
+* Vulture (minigames)
+* WeepCraft 0.2 (minigames)
+* WintWare (minigames)
+* Wurst+2 (anarchy)
+* Xatz 0.9b1 (minigames)
+* Xulu 1.5.2 (anarchy)
+
+## Discord: chocopie#8543 (newest discord name is in my profile)
+

@@ -1,0 +1,27 @@
+# Databases #
+#############
+*.db
+*.sql
+*.sqlite
+
+# Repository #
+##############
+.git
+
+# System #
+##########
+.DS_Store
+ehthumbs.db
+Thumbs.db
+*.sh
+
+# Project #
+###########
+.checkstyle
+.classpath
+.gradle
+.nb-gradle
+.idea
+.project
+.settings
+

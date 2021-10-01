@@ -1,0 +1,78 @@
+buildscript {
+
+    repositories {
+        jcenter()
+        mavenLocal()
+        mavenCentral()
+
+        maven { url 'https://files.minecraftforge.net/maven' }
+        maven { url 'https://plugins.gradle.org/m2' }
+    }
+
+    dependencies {
+        classpath "gradle.plugin.com.matthewprenger:CurseGradle:1.0.10"
+        classpath group: 'com.github.jengelman.gradle.plugins', name: 'shadow', version: '4.0.4'
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'com.github.johnrengelman.shadow'
+
+sourceCompatibility = JavaVersion.VERSION_1_8
+targetCompatibility = JavaVersion.VERSION_1_8
+compileJava.options.encoding = 'UTF-8'
+
+sourceSets {
+    main.java.srcDirs += 'src/main/java'
+    main.resources.srcDirs += 'src/main/resources'
+}
+
+idea {
+    module {
+        inheritOutputDirs = true
+    }
+}
+
+archivesBaseName = 'WintWare'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+    jcenter()
+
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+}
+
+processResources {
+    rename '(.+_at.cfg)', 'META-INF/$1'
+}
+
+jar {
+    manifest.attributes(
+            'Manifest-Version': 1.0,
+            'Main-Class': 'net.minecraft.client.main.Main'
+    )
+}
+
+shadowJar {
+    dependencies {
+        include(dependency('org.json:json'))
+        include(dependency('org.slf4j:slf4j-api'))
+        include(dependency('org.apache.commons:commons-collections4:4.4'))
+        include(dependency('log4j:log4j:1.2.17'))
+    }
+
+    classifier = ''
+}
+
+configurations {
+    external
+    compile.extendsFrom external
+}
+
+build.dependsOn shadowJar

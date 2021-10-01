@@ -1,10 +1,10 @@
-# Minecraft Hacked Client Sources
+# Minecraft Modifications Codes
 
-# JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
+## JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
 
-## Amount of clients: 57
+## Amount of modifications codes: 57
 
-faggot please star this before you fork this
+Please support the repository by starring and forking the repository!
 
 ## List of clients:
 

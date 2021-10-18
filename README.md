@@ -6,6 +6,8 @@
 
 Please support the repository by starring and forking the repository!
 
+## WARNING: These sources aren't meant to be run, the only way to run this is to setup a project and build it, which requires some java skills, do not dm me to ask how because I never tried to ran these sources
+
 ## List of clients:
 
 * Astro 2.2.1 (minigames)

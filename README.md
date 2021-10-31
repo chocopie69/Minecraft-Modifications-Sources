@@ -1,7 +1,5 @@
 # Minecraft Modifications Codes
 
-## JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
-
 ## Amount of modifications codes: 57
 
 Please support the repository by starring and forking the repository!

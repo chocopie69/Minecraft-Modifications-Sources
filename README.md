@@ -66,5 +66,5 @@ Please support the repository by starring and forking the repository!
 * Xatz 0.9b1 (minigames)
 * Xulu 1.5.2 (anarchy)
 
-## Discord: chocopie#8543 (newest discord name is in my profile)
+## Discord: chocopie#6969 (Discord ID: 724277801565290546) (newest discord name is in my profile)
 
